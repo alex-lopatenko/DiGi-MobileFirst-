@@ -1,8 +1,11 @@
-Верстка страницы "Di Gi Digital agency" без CSS препроцессоров по технологии Mobile First
+Верстка страницы "Di Gi Digital agency" с препроцессором SCSS, но без сборщиков проектов по технологии Mobile First
+
+**Статус:** <i>В разработке</i>
 
 **Стэк**
 
 - HTML
 - CSS
+- SCSS
 - JavaScript
 - JQuery
